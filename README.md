@@ -36,8 +36,8 @@ This project involved the creation of an interactive dashboard to track and anal
 3. Explore the interactive dashboard using filters, slicers, and parameters to analyze the ecommerce sales data.
 4. Refer to the screenshots in the **Screenshots/** directory for a visual guide on navigating the dashboard.
 
-## Screenshots:
-![dashboard1](https://github.com/suhasjadhav264/Sales-Dashboard-/assets/97833559/54a041ec-a71f-43f8-a97e-7d180bfb1496)
+## Screenshot:
+![dashboard1](https://github.com/suhasjadhav264/Sales-Dashboard-/assets/97833559/6a31374b-92be-4abe-9612-d2e594ce576b)
 
 ## Notes:
 - This project serves as a demonstration of data visualization and analysis capabilities using Power BI.
