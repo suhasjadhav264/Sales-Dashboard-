@@ -37,7 +37,7 @@ This project involved the creation of an interactive dashboard to track and anal
 4. Refer to the screenshots in the **Screenshots/** directory for a visual guide on navigating the dashboard.
 
 ## Screenshots:
-- ![Dashboard Overview](Screenshots/dashboard_overview.png)
+- ![Dashboard Overview](![dashboard1](https://github.com/suhasjadhav264/Sales-Dashboard-/assets/97833559/54a041ec-a71f-43f8-a97e-7d180bfb1496))
 - ![Sales by Region](Screenshots/sales_by_region.png)
 - ![Product Sales Trend](Screenshots/product_sales_trend.png)
 
